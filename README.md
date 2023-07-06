@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshit7653
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning c++,java,python , cloud computing and ethical hacking
+- 🌱 I’m currently learning c++,python , cloud computing and ethical hacking
 - 💞️ I’m looking to collaborate on various projects and jobs associated with it.
 - 📫 linkedin (https://www.linkedin.com/in/harshit-shukla-61a3081ab/).
 
