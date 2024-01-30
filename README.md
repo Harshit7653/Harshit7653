@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 Graduating in 2024 from SRM University Chennai in Btech in Cse along with specialization in cyber security .
 
 Passionate about technology and innovation.
-Skilled in Java , Data structures and algorithms, Python.
+Skilled in C++ , Data structures and algorithms, Python.
 A basic idea in cloud computing and cyber security.
 With an international mindset . 
 Fluent in English , German , Hindi and Dutch.
